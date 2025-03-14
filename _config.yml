@@ -100,3 +100,6 @@ exclude:
   - README.md
   - CNAME
 
+markdown: kramdown
+kramdown:
+  template_engine: erb
