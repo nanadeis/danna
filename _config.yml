@@ -99,7 +99,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-markdown: kramdown
-kramdown:
-  template_engine: erb
+  - vendor
